@@ -7,10 +7,7 @@
     "name": "\"Cowboy\" Ben Alman",
     "url": "http://benalman.com/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/cowboy/node-findup-sync.git"
-  },
+  "repository": "cowboy/node-findup-sync",
   "bugs": {
     "url": "https://github.com/cowboy/node-findup-sync/issues"
   },
