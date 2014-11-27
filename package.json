@@ -7,12 +7,7 @@
     "url": "http://benalman.com/"
   },
   "repository": "cowboy/node-findup-sync",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/cowboy/node-findup-sync/blob/master/LICENSE-MIT"
-    }
-  ],
+  "license": "MIT",
   "main": "lib/findup-sync",
   "scripts": {
     "test": "grunt nodeunit"
