@@ -8,9 +8,6 @@
     "url": "http://benalman.com/"
   },
   "repository": "cowboy/node-findup-sync",
-  "bugs": {
-    "url": "https://github.com/cowboy/node-findup-sync/issues"
-  },
   "licenses": [
     {
       "type": "MIT",
