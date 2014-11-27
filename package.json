@@ -14,7 +14,10 @@
   },
   "dependencies": {
     "glob": "^4.2.1",
-    "lodash": "^2.4.1"
+    "lodash.flatten": "^2.4.1",
+    "lodash.isarray": "^2.4.1",
+    "lodash.map": "^2.4.1",
+    "lodash.uniq": "^2.4.1"
   },
   "devDependencies": {
     "grunt": "^0.4.4",
